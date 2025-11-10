@@ -1,11 +1,11 @@
 # ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Nutricode
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Aplicação Android de Ajuda Nutricional
-![](https://github.com/eiKuan/lixoengsoft/blob/main/Imagens/bbbbbbbbbbbbb-removebg-preview.png)
+![](https://github.com/Neo-TimeOut/Nutricode/blob/main/documents/Nutri.png)
 
 
-  Nosso projeto consiste no desenvolvimento de uma aplicação Android voltada para a nutrição e bem-estar, oferecendo recursos que auxiliam os usuários a planejar suas dietas e treinos de forma personalizada. A plataforma permitirá que os usuários montem suas próprias dietas, consultem informações nutricionais de diversos alimentos e elaborem treinos com explicações detalhadas sobre os exercícios.
+  ⠀⠀⠀⠀Nosso projeto consiste no desenvolvimento de uma aplicação Android voltada para a nutrição e bem-estar, oferecendo recursos que auxiliam os usuários a planejar suas dietas e treinos de forma personalizada. A plataforma permitirá que os usuários montem suas próprias dietas, consultem informações nutricionais de diversos alimentos e elaborem treinos com explicações detalhadas sobre os exercícios.
   
-  A proposta visa atender tanto iniciantes quanto pessoas mais experientes que desejam melhorar sua alimentação e rotina de exercícios. No futuro, o projeto poderá ser expandido com a integração de inteligência artificial, tornando a experiência ainda mais personalizada e eficiente.
+ ⠀⠀⠀ A proposta visa atender tanto iniciantes quanto pessoas mais experientes que desejam melhorar sua alimentação e rotina de exercícios. No futuro, o projeto poderá ser expandido com a integração de inteligência artificial, tornando a experiência ainda mais personalizada e eficiente.
 
 #
 ### 🌐 Front-end

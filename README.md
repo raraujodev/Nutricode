@@ -33,6 +33,4 @@
 
 - Renan Rabelo Paes de Araújo
 - Kauã Granadier Costa
-- Lucas Lopes Nardi
 - Júlia Gonçalves da Rocha
-- Luiz Felipe Faustino Soares

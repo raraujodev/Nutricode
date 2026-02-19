@@ -34,3 +34,4 @@
 - Renan Rabelo Paes de Araújo
 - Kauã Granadier Costa
 - Júlia Gonçalves da Rocha
+- Miguel Scomparin

@@ -35,3 +35,5 @@
 - Kauã Granadier Costa
 - Júlia Gonçalves da Rocha
 - Miguel Scomparin
+- Luiz Felipe Faustino Soares
+  

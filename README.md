@@ -29,6 +29,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+### ![📄 Documento TG](https://docs.google.com/document/d/1Te8AgC5Ea-ZAn4KqXFkPdm9qGemVF2KLfZUBcCIFs94/edit?usp=sharing)
+
+---
 
 # 👥 Contribuidores
 

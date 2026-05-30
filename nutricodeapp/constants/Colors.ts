@@ -1,0 +1,27 @@
+
+export default {
+
+  zinc: '#0c0c1b',
+  black: '#000',
+  white: '#FFF',
+  green: '#99CF1D',
+  gray: '#DDDDDD',
+  greenDark: '#2E8B57',
+  greenLight: '#8FBC8F',
+  primary: '#3CB371',
+  secondary: '#4CAF50',
+  accent: '#66BB6A',
+  grayLight: '#D9D9D9',
+  grayDark: '#696969',
+  border: '#E5E5E5',
+  shadow: '#00000055',
+  red: '#E63946',
+  redDark: '#B22222',
+  yellow: '#FFD166',
+  orange: '#ff7300ff',
+  blue: '#0077B6',
+  blueLight: '#90E0EF',
+  textPrimary: '#333333',
+  textSecondary: '#555555',
+  laranjalegal: '#643209ff',
+}
